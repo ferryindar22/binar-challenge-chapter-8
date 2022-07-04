@@ -1,0 +1,19 @@
+.card {
+    height: 18rem;
+}
+
+.cardbody-color {
+    background-color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+.center {
+    justify-content: center;
+}
+
+.buttonSumbit {
+    width: 15rem;
+}

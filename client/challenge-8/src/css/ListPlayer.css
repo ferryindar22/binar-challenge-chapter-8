@@ -1,0 +1,13 @@
+.btn-createUser {
+    background-color: orange !important;
+    color: black;
+}
+
+.btn-createUser:hover {
+    background-color: orange;
+    color: #FFFFFF !important;
+}
+
+td, th {
+    vertical-align: middle;
+}
